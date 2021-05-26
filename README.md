@@ -1,6 +1,6 @@
 # TaskRail
 A full-stack task management web app with React and Express.js written in TypeScript.
-Constructed during the Spring of 2021.   
+The [initial project](https://github.com/Goma0925/TaskRail) started in the Spring of 2021. This project is a continuation of its development. 
  
 
 # Deployment Instructions
